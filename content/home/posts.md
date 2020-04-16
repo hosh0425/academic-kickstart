@@ -33,3 +33,5 @@ subtitle = ""
   organization_url = "http://www.firaworldcup.org/VisitorPages/default.aspx?itemid=3"
   title = "Second place in FIRA international robotics contests in Real Rescue Robots league"
   date_start = "2015"  
+
++++
