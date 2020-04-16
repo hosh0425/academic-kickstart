@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "First place , International Micro Aerial Vehicles 2016 competition , Beijing China ,indoor class"
     category = ""
     publication_type = ""
     author = ""
@@ -38,7 +38,6 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-First place , International Micro Aerial Vehicles 2016 competition , Beijing China ,indoor class
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
