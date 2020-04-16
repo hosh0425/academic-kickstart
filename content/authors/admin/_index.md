@@ -11,10 +11,10 @@ superuser: true
 
 # Role/position
 role: Research Assistant in RAMP Lab
-url: "http://ramp.ensc.sfu.ca/"
 # Organizations/Affiliations
 organizations:
 - name: Simon Fraser University
+url: ""
 
 
 # Short bio (displayed in user profile at end of posts)
