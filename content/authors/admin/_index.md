@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hossein Sh.D
+name: Hossein Sheikhi
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant in Robotics and Motion Planning Lab
-
+role: Research Assistant in RAMP Lab
+url: "http://ramp.ensc.sfu.ca/"
 # Organizations/Affiliations
 organizations:
 - name: Simon Fraser University
-  url: ""
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics perception.
@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linked-in
+- icon: linkedin
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Hossein is a research assistant in RAMP Lab since 2020 under Prof. Kamal Gupta and Prof. Mehran Mehrandezh supervision. His research interests are mainly about robotics perception including path planning, machine vision and deep learning. His Master thesis is about path planning for an industrial mobile robot in a factory.
+Hossein is a research assistant in Robotics Algorithms and Motion Planning Lab since 2020 under supervision of Prof. Kamal Gupta and Prof. Mehran Mehrandezh. My research interests are mainly about robotics perception including path planning, machine vision and deep learning. My Master thesis is about path planning for an industrial mobile robot in a factory.
 
 Hossein got his bachelor in computer engineering at K.N. Toosi University of Technology in Iran. In KNTU, he was a member of Advanced Robotic and Automated Systems (ARAS) under the supervision of professor Hamid D. Taghirad and a member of computer vision and AI group at MAV team and UGV team in the KN2C robotic team as well.
