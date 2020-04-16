@@ -24,12 +24,23 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "First place , International Micro Aerial Vehicles 2016 competition , Beijing China ,indoor class"
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+  [[item]]
+    organization = "IMAV"
+    organization_url = "http://www.imavs.org/2016/"
+    title = "First Place, International Micro Aerial Vehicles competition , Beijing China"
+    date_start = "2016"
+
+  [[item]]
+    organization = "FIRA"
+    organization_url = "http://www.firaworldcup.org/VisitorPages/default.aspx?itemid=3"
+    title = "Best in class autonomy in FIRA robotics contests 2015 in Real Rescue Robots league"
+    date_start = "2015"
+
+  [[item]]
+    organization = "FIRA"
+    organization_url = "http://www.firaworldcup.org/VisitorPages/default.aspx?itemid=3"
+    title = "Second place in FIRA international robotics contests in Real Rescue Robots league"
+    date_start = "2015"  
 
 [design]
   # Toggle between the various page layout types.
