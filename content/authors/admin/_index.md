@@ -45,9 +45,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/hossein-sheikhi-769238103/
-- icon: github
+- icon: gitlab
   icon_pack: fab
-  link: https://github.com/hosh0425
+  link: https://gitlab.com/hosh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Hossein is a research assistant in Robotics Algorithms and Motion Planning Lab since 2020 under supervision of Prof. Kamal Gupta and Prof. Mehran Mehrandezh. My research interests are mainly about robotics perception including path planning, machine vision and deep learning. My Master thesis is about path planning for an industrial mobile robot in a factory.
+Hossein is a research assistant in Robotics Algorithms and Motion Planning Lab under supervision of Prof. Kamal Gupta and Prof. Mehran Mehrandezh, since 2020. My research interests are mainly about robotics perception including path planning, machine vision and deep learning. My Master thesis is about path planning for an industrial mobile robot in a factory.
 
-Hossein got his bachelor in computer engineering at K.N. Toosi University of Technology in Iran. In KNTU, he was a member of Advanced Robotic and Automated Systems (ARAS) under the supervision of professor Hamid D. Taghirad and a member of computer vision and AI group at MAV team and UGV team in the KN2C robotic team as well.
+I am a graduated bachelor student in computer engineering at K.N. Toosi University of Technology in Iran. In KNTU, I was a member of Advanced Robotic and Automated Systems (ARAS) under the supervision of Prof. Hamid D. Taghirad and a member of computer vision and AI group at MAV team and UGV team in the KN2C robotic team as well.
