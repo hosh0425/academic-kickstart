@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Honors And Awards"
 subtitle = ""
 
 [content]
@@ -38,7 +38,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-
+First place , International Micro Aerial Vehicles 2016 competition , Beijing China ,indoor class
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
