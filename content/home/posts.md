@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors"
 subtitle = ""
 
 # Date format
@@ -48,34 +48,5 @@ date_format = "Jan 2006"
   date_end = "2017-12-21"
   description = ""
 
-[[item]]
-  organization = "IMAV"
-  organization_url = "http://www.imavs.org/2016/"
-  title = "First Place, International Micro Aerial Vehicles competition , Beijing China"
-  url = ""
-  certificate_url = ""
-  date_start = "2016"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "FIRA"
-  organization_url = "http://www.firaworldcup.org/VisitorPages/default.aspx?itemid=3"
-  title = "Best in class autonomy in FIRA robotics contests 2015 in Real Rescue Robots league"
-  url = ""
-  certificate_url = ""
-  date_start = "2015"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "FIRA"
-  organization_url = "http://www.firaworldcup.org/VisitorPages/default.aspx?itemid=3"
-  title = "Second place in FIRA international robotics contests in Real Rescue Robots league"
-  url = ""
-  certificate_url = ""
-  date_start = "2015"
-  date_end = ""
-  description = ""
 
 +++
