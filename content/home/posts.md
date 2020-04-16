@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_end = "2017-12-21"
   description = ""
 
-  [[item]]
+[[item]]
   organization = "IMAV"
   organization_url = "http://www.imavs.org/2016/"
   title = "First Place, International Micro Aerial Vehicles competition , Beijing China"
