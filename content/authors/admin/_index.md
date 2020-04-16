@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hossein Sheikhi Darani
+name: Hossein Sh.D
 
 # Username (this should match the folder name)
 authors:
@@ -14,22 +14,22 @@ role: Research Assistant in Robotics and Motion Planning Lab
 
 # Organizations/Affiliations
 organizations:
-- name: School of Engineering Science, Simon Fraser University
+- name: Simon Fraser University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics perception.
 
 interests:
-- Robotics perception
+- Path Planning
 - Machine Vision
-- Autonomous
+- Deep NN and RL
 
 education:
   courses:
-  - course: MSc student - Systems & Robotics
+  - course: MSc in Systems & Robotics
     institution: School of Engineering Science, Simon Fraser University
-    year: 2020
+    year: 2020-now
   - course: BSc in Computer Engineering
     institution: K.N. Toosi University of Technology - Tehran
     year: 2014-2019
@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linked-in
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -50,7 +50,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
