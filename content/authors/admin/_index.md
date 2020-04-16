@@ -1,7 +1,9 @@
 ---
 # Display name
 name: Hossein Sheikhi
-
+# Background gradient.
+ gradient_start = "DeepSkyBlue"
+ gradient_end = "SkyBlue"
 # Username (this should match the folder name)
 authors:
 - admin
