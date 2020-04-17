@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Systems & Robotics
+  - course: MSc in Systems and Robotics
     institution: School of Engineering Science, Simon Fraser University
     year: 2020-now
   - course: BSc in Computer Engineering
