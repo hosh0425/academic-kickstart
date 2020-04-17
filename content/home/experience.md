@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Simon Fraser University"
   date_start = "2020-01-20"
   date_end = ""
-  description = """Autonomous Industrial Mobile Robot"""
+  description = """"""
 
 
 [[experience]]
@@ -43,14 +43,14 @@ date_format = "Jan 2006"
   location = "K. N. Toosi University of Technology"
   date_start = "2018-06-20"
   date_end = "2016-06-20"
-  description = """Doing my bachelor thesis."""
+  description = """"""
 
 [[experience]]
-  title = "Robotics Software member"
+  title = "Robotics Software Leader"
   company = "KN2C Lab"
   company_url = "http://kn2c.aras.kntu.ac.ir/"
   location = "K. N. Toosi University of Technology"
   date_start = "2015-06-20"
   date_end = ""
-  description = """Developing Autonomous UAVs and UGVs"""
+  description = """"""
 +++
