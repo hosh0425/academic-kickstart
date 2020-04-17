@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www-origin.coursera.org/account/accomplishments/verify/7RH6B26JAZKY?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
   date_start = "2020-03-15"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
 
 [[item]]
   organization = "Coursera"
