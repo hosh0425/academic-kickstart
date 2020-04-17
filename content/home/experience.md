@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "RAMP Lab"
+  company_url = "http://ramp.ensc.sfu.ca/"
+  location = "Simon Fraser University"
+  date_start = "2020-01-20"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Autonomous Industrial Mobile Robot"""
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "C++/Qt Developer"
+  company = "INSURER"
+  company_url = "http://insurer.sharif.edu/"
+  location = "Sharif University Of Technology"
+  date_start = "2019-03-01"
+  date_end = "2019-10-01"
+  description = """I was missioned to debug the Rtx, add new features, and review the new codes developed by PhD students for Rtx."""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "ARAS Lab"
+  company_url = "https://aras.kntu.ac.ir/"
+  location = "K. N. Toosi University of Technology"
+  date_start = "2018-06-20"
+  date_end = "2016-06-20"
+  description = """Doing my bachelor thesis."""
+
+[[experience]]
+  title = "Robotics Software member"
+  company = "KN2C Lab"
+  company_url = "http://kn2c.aras.kntu.ac.ir/"
+  location = "K. N. Toosi University of Technology"
+  date_start = "2015-06-20"
+  date_end = ""
+  description = """Developing Autonomous UAVs and UGVs"""
 +++
