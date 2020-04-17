@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "RL Specialization - Prediction and Control with function approximation"
   url = ""
   certificate_url = "https://coursera.org/share/c3ef4ef13eeee9d6f50261de764aae97"
-  date_start = "2020-4-01"
+  date_start = "2020-04-01"
   date_end = ""
   description = ""
 
