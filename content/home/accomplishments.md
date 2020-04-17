@@ -48,4 +48,24 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Modern Robotics - Foundations of Robot Motion"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/RB7KQRE5A34J"
+  date_start = "2019-02-15"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/B7VRPPJAYWQS"
+  date_start = "2019-02-01"
+  date_end = ""
+  description = ""
+
 +++
