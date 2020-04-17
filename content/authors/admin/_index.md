@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant in RAMP Lab
+role: Research Assistant - RAMP Lab
 # Organizations/Affiliations
 organizations:
 - name: Simon Fraser University
@@ -24,7 +24,7 @@ bio: My research interests include robotics perception.
 interests:
 - Path Planning
 - Machine Vision
-- Deep NN and RL
+- Deep CNN and RL
 
 education:
   courses:
