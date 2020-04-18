@@ -13,6 +13,6 @@ type: "widget_page"  # Page type is a Widget Page
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "This is a talk"
-  image: "featured.jpg"
+  image: "f.jpg"
 ---
 blah blah
