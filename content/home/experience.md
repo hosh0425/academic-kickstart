@@ -30,11 +30,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "C++/Qt Developer"
   company = "INSURER"
-  company_url = "http://insurer.sharif.edu/"
+  company_url = "http://rtx.civil.sharif.edu/"
   location = "Sharif University Of Technology"
   date_start = "2019-03-01"
   date_end = "2019-10-01"
-  description = """I was missioned to debug the Rtx, add new features, and review the new codes developed by PhD students for Rtx."""
+  description = """I was missioned to debug the Rtx, add new features, and review the new codes developed by graduate students for Rtx."""
 
 [[experience]]
   title = "Research Assistant"
