@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   location = "Sharif University Of Technology"
   date_start = "2019-03-01"
   date_end = "2019-10-01"
-  description = """I was missioned to debug the Rtx, add new features, and review the new codes developed by graduate students for Rtx."""
-
+  description = """"""
+#I was missioned to debug the Rtx, add new features, and review the new codes developed by graduate students for Rtx.
 [[experience]]
   title = "Research Assistant"
   company = "ARAS Lab"
@@ -70,6 +70,7 @@ date_format = "Jan 2006"
   # Background image.
   image = "exp-background.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "contain"
   image_position = "left"
   # Text color (true=light or false=dark).
   # text_color_light = true  
