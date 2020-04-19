@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "exp-background.jpg"  # Name of image in `static/img/`.
+  image = "rsz_featured.jpg"  # Name of image in `static/img/`.
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "actual"
   image_position = "left"
