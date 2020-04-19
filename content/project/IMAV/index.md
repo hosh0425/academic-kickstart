@@ -3,7 +3,7 @@ title: "Autonomouse UAV"
 date: 2020-04-18T17:06:16-07:00
 draft: false
 ---
-This video briefly demonstrates main tasks for what we have done in KN2C for IMAV 2016 competition.
+This project briefly demonstrates main tasks for we have done in KN2C for IMAV 2016 competition.
 All of these algorithms are written based on the OpenCV library with constrained on real-time process and in ROS frame work.
 Main tasks:
 1. Sparse Optical flow algorithm is implemented for robot's position control
