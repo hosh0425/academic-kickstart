@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = " IEEE Conference on Robotics and Mechatronics (ICROM)"
   organization_url = ""
-  title = "Simulation and Real implementation of path planning by considering motion uncertainty for a UAV, _Hossein Sheikhi Darani, Ali Noormohammadi , Hamid D. Taghirad_"
+  title = "Path planning for a UAV by considering motion model uncertainty, _Hossein Sheikhi Darani, Ali Noormohammadi , Hamid D. Taghirad_"
   url = "files/article1.pdf"
   certificate_url = ""
   date_start = "2019-11-01"
