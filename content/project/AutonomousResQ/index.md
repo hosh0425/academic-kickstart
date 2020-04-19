@@ -1,6 +1,6 @@
 ---
 title: "Autonomouse Rescue Robot"
-date: 2020-04-18T17:06:16-07:00
+date: 2015-04-18T17:06:16-07:00
 draft: false
 ---
 This video demonstrates our autonomous rescue robot in Iran Open 2015 competition.
