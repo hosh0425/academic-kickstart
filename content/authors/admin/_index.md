@@ -33,7 +33,7 @@ education:
     institution: School of Engineering Science, Simon Fraser University
     year: 2020-now
   - course: BSc in Computer Engineering
-    institution: K.N. Toosi University of Technology - Tehran
+    institution: K.N. Toosi University of Technology
     year: 2013-2018
 
 # Social/Academic Networking
