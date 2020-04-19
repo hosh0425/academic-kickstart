@@ -17,11 +17,10 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
   organization = " IEEE Conference on Robotics and Mechatronics (ICROM)"
   organization_url = ""
-  title = "Simulation and Real implementation of path planning by considering motion uncertainty for a UAV, _Hossein Sheikhi Darani, Ali Noormohammadi , Hamid D. Taghirad_"
+  title = "{{% staticref "files/cv.pdf" "newtab" %}}Simulation and Real implementation of path planning by considering motion uncertainty for a UAV {{% /staticref %}}, _Hossein Sheikhi Darani, Ali Noormohammadi , Hamid D. Taghirad_"
   url = ""
   certificate_url = ""
   date_start = "2019-11-01"
