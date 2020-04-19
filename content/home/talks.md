@@ -32,6 +32,10 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
+  talks:
+  - name: _index
+    abstract: "amazing talk"
+    url_slides: ""
 
 [design]
   # Toggle between the various page layout types.
