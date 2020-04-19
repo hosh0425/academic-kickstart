@@ -1,10 +1,10 @@
 ---
 title: "Path Planning for a UAV by Considering Motion Uncertainty"
-summary: "blah blah"
+summary: "This video briefly demonstrates what I have done as my bachelor thesis"
 date: 2018-04-18T17:06:16-07:00
 draft: false
 ---
-This video briefly demonstrates what I have done as my bachelor thesis.
+
 The primary purpose of path planning for UAVs,
 which is a necessary prerequisite toward an autonomous UAV is
 to reach the robot to the predefined target while the chosen path

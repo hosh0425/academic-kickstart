@@ -1,5 +1,6 @@
 ---
 title: "Autonomouse Rescue Robot"
+summary: "This video demonstrates our autonomous rescue robot in Iran Open 2015 competition"
 date: 2015-04-18T17:06:16-07:00
 draft: false
 ---
