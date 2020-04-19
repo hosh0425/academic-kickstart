@@ -1,6 +1,6 @@
 ---
 title: "Path Planning for a UAV by Considering Motion Uncertainty"
-date: 2020-04-18T17:06:16-07:00
+date: 2018-04-18T17:06:16-07:00
 draft: false
 ---
 This video briefly demonstrates what I have done as my bachelor thesis.

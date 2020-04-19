@@ -1,6 +1,6 @@
 ---
 title: "Autonomouse UAV"
-date: 2020-04-18T17:06:16-07:00
+date: 2016-04-18T17:06:16-07:00
 draft: false
 ---
 This project briefly demonstrates main tasks for we have done in KN2C for IMAV 2016 competition.
