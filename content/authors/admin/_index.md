@@ -19,7 +19,7 @@ url: ""
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics perception.
+bio: Interested in robotics perception.
 
 interests:
 - Path Planning
