@@ -13,3 +13,8 @@ header:
   caption: "blah"
   image: "f"
 ---
++++
+title = "blah blah"
+authors = ["hosh"]
+publication_types= ["2"]
+publication = "sdad"
