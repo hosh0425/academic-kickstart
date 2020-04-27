@@ -13,6 +13,9 @@ Problem definition:
 Both of them trained by data collected from simulator. Results shows that multi layer perceptron fits better on predicting motion model. cause the NN has just one hidden layer it does not cause delay in our calculations.
 I have created a bag of pre-trained NN including 16 pre-trained NN on different setup of robots. At the phase, the commanded velocities to the robot will feed to all these pretrained NNs, and the estimated position of robot would be an average of the prediction of all predicted NNs.</div>   
 <br>
+The bellow figure shows the results:
+{{< figure library="true" src="kin1.png" title="Kinematic Identification Using NN" lightbox="true" >}}
+
 <br>
 
 
