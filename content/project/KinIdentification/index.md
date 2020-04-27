@@ -4,7 +4,7 @@ summary: "Kinematic Identification of an imperfectly designed differential drive
 date: 2020-04-18T17:06:16-07:00
 draft: false
 ---
-Kinematic Identification Using NN
+**Kinematic Identification Using NN**
 
 Problem definition:
 <div style="text-align:justify">There is an industrial mobile robot which its casters and also its actuators would set up imprecisely. In one scenario maybe accidentally the actuators and casters are placed symmetric, so the motion model would follow the kinematic model of a perfect designed differential drive mobile robot. For the next scenario, maybe the wheels are not placed parallel, so obviously the robot would not follow the kinematic model of an perfect designed differential drive mobile robot.</div>
