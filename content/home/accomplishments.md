@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "RL Specialization - Capstone Project"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/ZPKKCDLBJ77U?utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2020-04-25"
+  date_end = ""
+  description = ""
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"

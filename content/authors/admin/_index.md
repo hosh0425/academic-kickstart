@@ -22,9 +22,9 @@ url: ""
 bio: Interested in robotics perception.
 
 interests:
+- Autonomous Mobile Robots
 - Path Planning
 - Machine Vision
-- Deep CNN
 - Deep RL
 
 education:
