@@ -6,7 +6,7 @@ draft: false
 ---
 **Deep Q-Network**
 
-<div style="text-align:justify">This project is the first problem I have tried to solve by RL. For the Cartpole-v0 the DQN is able to learn to never-loose.</div>
+<div style="text-align:justify">My bachelor thesis was a model-based RL. However, this project is my first implementation of a model-free RL problem. For the Cartpole-v0 the DQN is able to learn to never-loose.</div>
 <br>
 <div style="text-align:justify">You can find the implementation in <a href="https://gitlab.com/hosh/master/-/blob/master/Cartpole-DQN/Cartpole.py">my Gitlab.</a></div>
 
