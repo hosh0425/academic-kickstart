@@ -9,7 +9,7 @@ draft: false
 <div style="text-align:justify">My bachelor thesis was a model-based RL problem while, this project is my first implementation of a model-free RL problem.
 I implemented DQN by an epsilon-greedy policy. The expected SARSA used a softmax as its policy by a function approximator same as DQN. Also, in both implementations the memory replay procedure is used. For the Cartpole-v0 both are able to learn to never loose.</div>
 <br>
-<div style="text-align:justify">The below figures show the output of both implementations for 35000 steps. You can find the implementations in <a href="https://gitlab.com/hosh/master/-/blob/master/Cartpole-DQN/Cartpole.py">my Gitlab.</a></div>
+<div style="text-align:justify">The below figures show the output of both implementations for 35000 steps. You can find the implementations in <a href="https://gitlab.com/hosh/master/-/tree/master/Cartpole-DQN">my Gitlab.</a></div>
 
 
 
