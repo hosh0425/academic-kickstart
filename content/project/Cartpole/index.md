@@ -14,4 +14,4 @@ I implemented DQN by an epsilon-greedy policy. The expected SARSA used a softmax
 
 
 
-{{< figure library="true" src="DQN.png" title="DQN" lightbox="true" >}}
+{{< figure library="true" src="DQN.png" title="DQN" lightbox="true" >}}{{< figure library="true" src="expectedSARSA.png" title="Expected SARSA" lightbox="true" >}}
