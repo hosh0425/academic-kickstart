@@ -66,6 +66,7 @@ user_groups:
 - Visitors
 ---
 
-<div style="text-align:justify">I am a research assistant in <a href="http://ramp.ensc.sfu.ca/">Robotics Algorithms and Motion Planning (RAMP) Lab</a> under supervision of Prof. Kamal Gupta and Prof. Mehran Mehrandezh, since 2020. My research interest is mainly about robotics perception. During my master program I am going to consolidate path planning, machine vision and deep reinforcement learning algorithms to build an autonomous industrial mobile robot.</div>
+<div style="text-align:justify"> I am a roboticist! I am interested in Deep Learning and its application in Autonomous Mobile Robots. Especially when Deep Reinforcement Learning and Deep CNNs come in play to modify the classical approaches in AMR.
+Currently, I am a research assistant in <a href="http://ramp.ensc.sfu.ca/">Robotics Algorithms and Motion Planning (RAMP) Lab</a> under supervision of Prof. Kamal Gupta and Prof. Mehran Mehrandezh, since 2020. </div>
 <br>
 <div style="text-align:justify">Previously, I was a computer engineering student at K.N. Toosi University of Technology in Iran. In KNTU,  I was a member of <a href="https://aras.kntu.ac.ir/">Advanced Robotic and Automated Systems (ARAS)  Lab</a> under the supervision of Prof. Hamid D. Taghirad and a member of computer vision and AI group at MAV team and UGV team in the <a href=http://kn2c.aras.kntu.ac.ir/>KN2C robotic team</a> as well.</div>
