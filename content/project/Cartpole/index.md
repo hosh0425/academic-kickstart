@@ -21,5 +21,5 @@ It is worth mentioning that all the methods trained on my laptop (Gtx 960M). So 
 
 
 
-{{< figure library="true" src="DQN.png" title="DQN" lightbox="true" >}}
-{{< figure library="true" src="sarsa.png" title="Expected SARSA" lightbox="true" >}}
+{{< figure library="true" src="dqn.png" title="DQN - resultsts for two different network" lightbox="true" >}}
+{{< figure library="true" src="sarsa.png" title="Expected SARSA - resultsts for two different network" lightbox="true" >}}
