@@ -20,6 +20,6 @@ It is worth mentioning that all the methods trained on my laptop (Gtx 960M). So 
 
 
 
-
-{{< figure library="true" src="dqn.png" title="DQN - resultsts for two different network" lightbox="true" >}}
-{{< figure library="true" src="sarsa.png" title="Expected SARSA - resultsts for two different network" lightbox="true" >}}
+{{< figure library="true" src="sarsa.png" title="Expected SARSA - results for two different networks" lightbox="true" >}}
+{{< figure library="true" src="dqn.png" title="DQN - results for two different networks" lightbox="true" >}}
+{{< figure library="true" src="a2c.png" title="Advantege Actor-Critic" lightbox="true" >}}
